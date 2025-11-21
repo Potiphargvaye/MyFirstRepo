@@ -1,0 +1,1 @@
+This course has taught me how to clone, commit, push, and collaborate on GitHub.
